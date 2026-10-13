@@ -37,7 +37,8 @@ local function GetOutputChannel()
         return "PARTY"
     end
 
-    return "SAY"
+    -- return nil -- En Mode prod
+    return "SAY" --En Mode dev
 end
 
 local function Announce(text)
