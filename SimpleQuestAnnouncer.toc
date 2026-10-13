@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: SimpleQuestAnnouncer
+## Notes: Announces quest progress
+## Author: BriareosTM
+## Version: 1.0
+## SavedVariables: SimpleQuestAnnouncerDB
+
+SimpleQuestAnnouncer.lua
